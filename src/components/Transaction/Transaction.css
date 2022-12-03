@@ -1,0 +1,20 @@
+ .transaction-history{
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 600px;
+    /* align-items: center;
+    justify-content: center; */
+ }
+ th{ width: 199px;
+    background-color: cornflowerblue;
+   color: white;
+ }
+ tr:nth-child(2n+1){
+    background-color: gainsboro;
+ }
+
+td {width: 99px;
+    text-align: center;}
